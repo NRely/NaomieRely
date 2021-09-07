@@ -1,0 +1,13 @@
+<div class="container">
+        <h1>Naomie Rely</h1>
+        <h5>Web Developer - Web Designer</h5>
+        <p>I can develop and design websites using Visual Studio Code. I currently know HTML, JavaScript, and CSS. I study information technology at my high school that I currently attend and will be graduating June 2022. I also do smartphone repairs and computer repairs.</p>
+</div>
+
+
+.container{
+    height: 75vh;
+    width: 30%;
+    background: rgba(0, 0, 0, .6);
+    color: white;
+}
